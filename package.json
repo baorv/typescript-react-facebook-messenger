@@ -2,6 +2,7 @@
     "name": "typescript-react-facebook-messenger",
     "version": "0.0.2",
     "description": "Facebook Messenger for ReactJS with Typescript",
+    "keywords": ["facebook", "messenger", "reactjs", "typescript"],
     "author": "baorv",
     "license": "MIT",
     "main": "dist/index.js",
