@@ -2,7 +2,9 @@
 
 > Facebook Messenger for ReactJS with Typescript
 
-[![NPM](https://img.shields.io/npm/v/typescript-react-facebook-messenger.svg)](https://www.npmjs.com/package/typescript-react-facebook-messenger) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Build Status](https://travis-ci.com/baorv/typescript-react-facebook-messenger.svg?branch=master)](https://travis-ci.com/baorv/typescript-react-facebook-messenger)
+[![NPM](https://img.shields.io/npm/v/typescript-react-facebook-messenger.svg)](https://www.npmjs.com/package/typescript-react-facebook-messenger) 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
