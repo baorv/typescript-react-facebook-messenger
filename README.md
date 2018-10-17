@@ -34,7 +34,7 @@ npm install --save typescript-react-facebook-messenger
 ## Usage
 
 ```tsx
-import * as React from "react';
+import * as React from "react";
 import {MessengerCustomerChat} from "typescript-react-facebook-messenger";
 
 class Example extends React.Component {
