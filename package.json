@@ -1,9 +1,12 @@
 {
     "name": "typescript-react-facebook-messenger",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "description": "Facebook Messenger for ReactJS with Typescript",
     "keywords": ["facebook", "messenger", "reactjs", "typescript"],
     "author": "baorv",
+    "homepage": "https://github.com/baorv/typescript-react-facebook-messenger#readme",
+    "url" : "https://github.com/baorv/typescript-react-facebook-messenger/issues",
+    "email" : "roanvanbao@gmail.com",
     "license": "MIT",
     "main": "dist/index.js",
     "module": "dist/index.es.js",
